@@ -1,0 +1,328 @@
+/* header starts */
+.header{
+    width: 100%;
+    height: 64px;
+    background: rgb(51, 53, 69);
+    margin:0%;
+    padding: 0%;
+    display: flex;
+    justify-content: space-between;
+    
+}body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  
+    
+    
+}.left-header .header-img{
+    width: 160px;
+    height: 63px;
+    margin-left: 46px;
+    
+}.search-header{
+   
+    padding-right: 392px;
+    padding-top: 11px;
+    display: flex;
+    margin-right: 335px;
+    
+    
+}.search-header input{
+    width: 350px;
+    height: 29px;
+    margin-top: 4px;
+    text-align: center;
+   
+    outline: none;
+}.search-header i{
+    margin-left: -346px;
+    margin-top: 13px;
+    font-size: 100%;
+    
+
+   
+}.right-header{
+    padding-top: 9px;
+    padding-right: 5px;
+    margin-right: 8px;
+    display: flex;
+    margin-top: 8px;
+}.right-header i{
+    color: rgb(204, 204, 204);
+    cursor: pointer;
+
+}   
+    
+   
+.right-header select{
+    background-color:rgb(51, 53, 69); 
+    color: white;
+    width: 53px;
+    height: 28px;
+    border: none;
+    cursor: pointer;
+
+}.right-header .leftoption{
+    margin-right: 16px;
+    width: 73px;
+}.right-header button{
+    height: 23px;
+    margin-left: 14px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(248, 68, 100);
+    font-size: 12px;
+    height: 25px;
+    line-height: 25px;
+    width: 67px;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid rgb(248, 68, 100);
+    margin-right: 9px;
+    cursor: pointer;
+}.head{
+    margin-top: 72px;
+}
+   
+
+
+/* header ends */
+.subheader{
+    width: 100%;
+    background: rgb(31, 37, 51);
+    height: 45px;
+    padding-top: 1px;
+    display: flex;
+    flex-direction: row;
+}.leftsubheader{
+   width: 60%;
+   padding: 0px 199px;
+    padding-left: 21px;
+
+   
+   
+}.leftsubheader .icons{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family: Roboto,sans-serif;
+    color: rgb(204, 204, 204);
+    font-weight: 400;
+     margin-top: -2px;
+    margin-left: -4px;
+    
+}.rightsubheader{
+    width: 49%;
+
+}.rightsubheader .lefticons{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    cursor: pointer;
+    margin-top: -2px;
+    padding: 0px 51px;
+    padding-right: 3px;
+    margin-left: 61px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}.icons a{
+    margin-left: -52px;
+  
+    color: red;
+}.lefticons a{
+    margin-left: -30px;
+    color: red;
+
+}
+   
+
+.cinima img{
+    height: 292px;
+    
+    border-radius: 13px;
+    cursor: pointer;
+    width: 200px;
+    
+    
+    
+}.cinima .fire{
+    margin-left: 50px;
+    margin-right: -21px;
+
+}.cinima .fire2{
+    margin-left: 12px;
+    margin-right: -12px;
+}
+    
+
+.cinimas h3{
+    margin-left: 18px;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: -2px;
+    margin-left: 64px;
+    width: 100%;
+    height: 4px;
+
+}.cinima-details{
+    
+   
+    margin-top: 291px;
+    margin-left: -302px;
+    
+    
+}.cinima-title  span{
+    color: rgb(34, 34, 34);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+}.experience span{
+    color: rgb(102, 102, 102);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+}.cinima-container{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    width: 1280px;
+    margin-left: 5px;
+
+    
+}.cinimas{
+    width: 1080px;
+    
+    
+
+}.link{
+    margin-left: 717px;
+    font-size: medium;
+    color: red;
+    
+}.move button{
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(153, 153, 153);
+    margin-top: 103px;
+    margin-left: -105px;
+    border-radius: 20px;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+}.move{
+    margin-left: -23px;
+}.unnimukthan{
+    margin-left: 20px;
+}.footer{
+    margin-top: 59px;
+    cursor: pointer;
+}.footer img{
+    width: 100%;
+    
+}.single-event img{
+    width: 213px;
+    height: 233px;
+    border-radius: 19px;
+}.event-container{
+    display: flex;
+    gap: 8px 32px;
+    cursor: pointer;
+}.head h2{
+    color: #333;
+    font-family: Roboto,sans-serif;
+    margin-left: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 11px;
+    margin-bottom: 10px;
+
+}.event-container button{
+    height: 40px;
+    border-radius: 23px;
+    background: rgb(153, 153, 153);
+    color: #fff;
+    border: none;
+    width: 40px;
+    margin-top: 95px;
+    margin-left: -45px;
+
+}.footer-layer{
+    background-color: rgb(49, 48, 53);
+    width: 100%;
+    height: 100px;
+    margin-top: 40px;
+   display: flex;
+   border-radius: 10px;
+}.footer-button{
+   display: flex;
+   
+}.footer-bu{
+    margin-left: 340px;
+    width: 104px;
+    height: 43px;
+    margin-top: 15px;
+    border-radius: 10px;
+    background-color: rgb(236, 94, 113);
+    color: #fff;
+    border-color: transparent;
+    cursor: pointer;
+}
+.footer-para{
+    margin-left: 40px;
+    margin-top: 32px;
+    color: #fff;
+}
+.last-footer{
+    width: 100%;
+    height: 150px;
+    background-color:rgb(43, 42, 42);
+    border-radius: 10px;
+}.footer-icons{
+    text-align: center;
+    padding-top: 12px;
+}.footer-logo{
+    font-size: 30px;
+    
+    color: rgb(153, 153, 153);
+    cursor: pointer;
+}
+.footer-logo:hover{
+    color: #fff;
+}.footer-para2{
+    font-size: 11px;
+    color: rgb(102, 102, 102);
+}.premire{
+    background-color:rgb(43, 49, 72);;
+    width: 100%;
+    height: 582px;
+    margin-top: 15px;
+}.premire-head{
+    margin-left: 20px;
+}.premire-subhead{
+    margin-left: 30px;
+    color: #fff;
+}.img{
+    height: 285px;
+    width: 189px;
+    border-radius: 8px;
+    margin-right: 40px;
+    margin-left: 11px;
+}.premire-img{
+    width: 100%;
+    
+}.premire-sub1{
+    width: 100%;
+    height: 88px;
+    margin-left: 30px;
+}.subheader{
+    display: flex;
+    height: 78px;
+}.subheading{
+    margin-right: 180px;
+}
